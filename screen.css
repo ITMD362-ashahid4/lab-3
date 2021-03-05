@@ -1,0 +1,34 @@
+html {
+  line-height: 1.618em;
+  font-family: verdana;
+  font-size: 16px;
+  padding: 25px;
+}
+
+div {
+  padding: 10px;
+}
+
+#address, #phone, #birth, #submit {
+  padding: 5px;
+}
+
+#submit {
+  text-align: center;
+}
+
+@media screen and (min-width: 330px) {
+  #address, #phone {
+    width: 90%;
+
+}
+@media screen and (min-width: 500px) {
+  #address, #phone {
+    width: 55%;
+  }
+}
+@media screen and (min-width: 900px) {
+  #address, #phone {
+    width: 35%;
+  }
+}
