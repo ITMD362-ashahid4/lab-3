@@ -18,6 +18,10 @@ div {
 
 #submit {
   text-align: center;
+  border: none;
+  padding: 6px;
+  background-color: #8D8D8D;
+  color: white;
 }
 
 @media screen and (min-width: 330px) {
