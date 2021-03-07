@@ -3,14 +3,17 @@ html {
   font-family: verdana;
   font-size: 16px;
   padding: 25px;
+
 }
 
 div {
   padding: 10px;
 }
 
-#address, #phone, #birth, #submit {
+#address, #phone, #birth, {
   padding: 5px;
+  border: none;
+  background-color: #E3E3E3;
 }
 
 #submit {
