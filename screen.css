@@ -40,4 +40,10 @@ div {
   #address, #phone {
     width: 35%;
   }
+  html {
+    text-align:center;
+  }
+  #birthday{
+    text-indent: -23%;
+  }
 }
