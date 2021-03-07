@@ -10,7 +10,7 @@ div {
   padding: 10px;
 }
 
-#address, #phone, #birth, {
+#address, #phone, #birth {
   padding: 5px;
   border: none;
   background-color: #E3E3E3;
